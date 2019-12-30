@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-machiene-learning",
+  "version": "1.0.0",
+  "description": "nodejs ML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopalanand333/nodejs-Machiene-Learning.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ml"
+  ],
+  "author": "gopal anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopalanand333/nodejs-Machiene-Learning/issues"
+  },
+  "homepage": "https://github.com/gopalanand333/nodejs-Machiene-Learning#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "regression": "^2.0.1",
+    "timeseries-analysis": "^1.0.12"
+  }
+}
