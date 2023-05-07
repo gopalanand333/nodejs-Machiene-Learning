@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/gopalanand333/nodejs-Machiene-Learning#readme",
   "dependencies": {
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.22",
     "regression": "^2.0.1",
     "timeseries-analysis": "^1.0.12"
   }
